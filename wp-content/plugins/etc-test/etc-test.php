@@ -2,7 +2,7 @@
 
 /**
 Plugin Name: Etc Test
-Plugin URI: http://страница_с_описанием_плагина_и_его_обновлений
+Plugin URI: https://github.com/DenisTolmachev/EtcTest
 Description: Etcetera Agency - WP Developer - Test Task.
 Version: 1.0
 Author: Denys Tolmachov
